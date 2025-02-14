@@ -1,0 +1,297 @@
+2025-01-16 17:32:48,240 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-01-16 17:32:48,241 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-01-16 17:32:48,280 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-01-16 17:32:48,282 - [33mPress CTRL+C to quit[0m
+2025-01-16 17:32:49,178 - kex_exchange_identification: read: Connection reset by peer
+2025-01-16 17:32:49,178 - Connection reset by 138.68.79.95 port 22
+2025-01-16 17:35:07,040 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-01-16 17:35:07,041 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-01-16 17:35:07,045 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-01-16 17:35:07,045 - [33mPress CTRL+C to quit[0m
+2025-01-16 17:35:08,071 - kex_exchange_identification: read: Connection reset by peer
+2025-01-16 17:35:08,072 - Connection reset by 138.68.79.95 port 22
+2025-01-16 17:35:37,441 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-01-16 17:35:37,445 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-01-16 17:35:37,445 - [33mPress CTRL+C to quit[0m
+2025-01-16 17:36:26,220 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-01-16 17:36:26,258 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-01-16 17:36:26,258 - [33mPress CTRL+C to quit[0m
+2025-01-16 17:37:10,391 - 127.0.0.1 - - [16/Jan/2025 17:37:10] "GET / HTTP/1.1" 200 -
+2025-01-16 17:37:10,674 - 127.0.0.1 - - [16/Jan/2025 17:37:10] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-01-16 17:37:11,990 - 127.0.0.1 - - [16/Jan/2025 17:37:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-16 17:37:14,552 - 127.0.0.1 - - [16/Jan/2025 17:37:14] "POST /location_update HTTP/1.1" 200 -
+2025-01-16 17:37:15,133 - 127.0.0.1 - - [16/Jan/2025 17:37:15] "POST /location_update HTTP/1.1" 200 -
+2025-01-16 17:37:15,741 - 127.0.0.1 - - [16/Jan/2025 17:37:15] "POST /location_update HTTP/1.1" 200 -
+2025-01-16 18:30:52,600 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-01-16 18:30:52,629 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-01-16 18:30:52,677 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-01-16 18:30:52,677 - [33mPress CTRL+C to quit[0m
+2025-01-16 18:30:53,837 - kex_exchange_identification: read: Connection reset by peer
+2025-01-16 18:30:53,838 - Connection reset by 138.68.79.95 port 22
+2025-01-16 18:31:18,946 - 127.0.0.1 - - [16/Jan/2025 18:31:18] "GET / HTTP/1.1" 200 -
+2025-01-16 18:31:19,198 - 127.0.0.1 - - [16/Jan/2025 18:31:19] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-01-16 18:31:19,500 - 127.0.0.1 - - [16/Jan/2025 18:31:19] "GET /get_target HTTP/1.1" 200 -
+2025-01-16 18:31:21,778 - 127.0.0.1 - - [16/Jan/2025 18:31:21] "POST /location_update HTTP/1.1" 200 -
+2025-01-16 18:31:23,395 - 127.0.0.1 - - [16/Jan/2025 18:31:23] "POST /location_update HTTP/1.1" 200 -
+2025-01-16 18:31:25,224 - 127.0.0.1 - - [16/Jan/2025 18:31:25] "POST /location_update HTTP/1.1" 200 -
+2025-01-16 18:31:37,761 - 127.0.0.1 - - [16/Jan/2025 18:31:37] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:38,822 - 127.0.0.1 - - [16/Jan/2025 18:31:38] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:40,346 - 127.0.0.1 - - [16/Jan/2025 18:31:40] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:42,018 - 127.0.0.1 - - [16/Jan/2025 18:31:42] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:43,758 - 127.0.0.1 - - [16/Jan/2025 18:31:43] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:45,199 - 127.0.0.1 - - [16/Jan/2025 18:31:45] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:46,312 - 127.0.0.1 - - [16/Jan/2025 18:31:46] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:48,490 - 127.0.0.1 - - [16/Jan/2025 18:31:48] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:49,398 - 127.0.0.1 - - [16/Jan/2025 18:31:49] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:51,164 - 127.0.0.1 - - [16/Jan/2025 18:31:51] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:52,547 - 127.0.0.1 - - [16/Jan/2025 18:31:52] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:54,032 - 127.0.0.1 - - [16/Jan/2025 18:31:54] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:55,206 - 127.0.0.1 - - [16/Jan/2025 18:31:55] "POST /image HTTP/1.1" 200 -
+2025-01-16 18:31:57,272 - 127.0.0.1 - - [16/Jan/2025 18:31:57] "POST /image HTTP/1.1" 200 -
+2025-02-02 10:36:24,305 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-02 10:36:24,308 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-02 10:36:24,495 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-02 10:36:24,495 - [33mPress CTRL+C to quit[0m
+2025-02-02 10:36:35,210 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://07af5fc7ac4f1c15d45e052b1a6704e3.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-02 10:39:06,700 - [0m
+2025-02-02 10:39:06,706 - Warning: Permanently added 'serveo.net' (RSA) to the list of known hosts.
+2025-02-02 10:39:06,711 - Read from remote host serveo.net: Connection reset by peer
+2025-02-02 10:39:06,722 - Connection to serveo.net closed.
+2025-02-02 10:39:06,729 - client_loop: send disconnect: Broken pipe
+2025-02-02 10:41:15,966 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-02 10:41:44,575 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-02 10:41:44,585 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-02 10:41:49,357 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://46e5d5749e290467cbc3b793ff4afe6f.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-02 10:44:15,723 - 127.0.0.1 - - [02/Feb/2025 10:44:15] "GET / HTTP/1.1" 200 -
+2025-02-02 10:44:19,032 - 127.0.0.1 - - [02/Feb/2025 10:44:19] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-02 10:44:21,218 - 127.0.0.1 - - [02/Feb/2025 10:44:21] "POST /location_update HTTP/1.1" 200 -
+2025-02-02 10:44:23,368 - 127.0.0.1 - - [02/Feb/2025 10:44:23] "POST /location_update HTTP/1.1" 200 -
+2025-02-02 10:44:25,032 - 127.0.0.1 - - [02/Feb/2025 10:44:25] "POST /location_update HTTP/1.1" 200 -
+2025-02-02 13:38:08,775 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-02 13:38:08,780 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-02 13:38:14,307 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://d6b05a14deca0ac5cd42ff4378e5c3da.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-02 13:38:50,707 - 127.0.0.1 - - [02/Feb/2025 13:38:50] "GET / HTTP/1.1" 200 -
+2025-02-02 13:39:05,772 - 127.0.0.1 - - [02/Feb/2025 13:39:05] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-02 13:39:11,835 - 127.0.0.1 - - [02/Feb/2025 13:39:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 13:39:16,294 - 127.0.0.1 - - [02/Feb/2025 13:39:16] "POST /location_update HTTP/1.1" 200 -
+2025-02-02 13:39:16,440 - 127.0.0.1 - - [02/Feb/2025 13:39:16] "POST /location_update HTTP/1.1" 200 -
+2025-02-02 13:39:18,092 - 127.0.0.1 - - [02/Feb/2025 13:39:18] "POST /location_update HTTP/1.1" 200 -
+2025-02-02 13:46:18,757 - [0m
+2025-02-02 13:46:18,764 - Connection to serveo.net closed.
+2025-02-11 11:26:48,924 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-11 11:26:48,935 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-11 11:26:49,044 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-11 11:26:49,044 - [33mPress CTRL+C to quit[0m
+2025-02-11 11:26:51,978 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://0be13c2131766f6de77af5365e875e18.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-11 11:28:05,396 - 127.0.0.1 - - [11/Feb/2025 11:28:05] "GET / HTTP/1.1" 200 -
+2025-02-11 11:28:07,194 - 127.0.0.1 - - [11/Feb/2025 11:28:07] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-11 11:31:00,254 - [0m
+2025-02-11 11:31:00,255 - Read from remote host serveo.net: Connection reset by peer
+2025-02-11 11:31:00,255 - Connection to serveo.net closed.
+2025-02-11 11:31:00,255 - client_loop: send disconnect: Broken pipe
+2025-02-11 11:31:18,358 - 127.0.0.1 - - [11/Feb/2025 11:31:18] "GET / HTTP/1.1" 200 -
+2025-02-11 11:31:19,863 - 127.0.0.1 - - [11/Feb/2025 11:31:19] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-11 11:40:58,406 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-11 11:40:58,407 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-11 11:40:58,480 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-11 11:40:58,480 - [33mPress CTRL+C to quit[0m
+2025-02-11 11:41:04,976 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://3e447a15abe668c6d6a5ffa71bc8166d.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-11 11:45:34,753 - 127.0.0.1 - - [11/Feb/2025 11:45:34] "GET / HTTP/1.1" 200 -
+2025-02-11 11:45:35,617 - 127.0.0.1 - - [11/Feb/2025 11:45:35] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-11 11:45:37,976 - 127.0.0.1 - - [11/Feb/2025 11:45:37] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 11:45:39,524 - 127.0.0.1 - - [11/Feb/2025 11:45:39] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 11:45:40,522 - 127.0.0.1 - - [11/Feb/2025 11:45:40] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 11:49:29,069 - [0m
+2025-02-11 11:49:29,073 - Connection to serveo.net closed.
+2025-02-11 11:51:20,589 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-11 11:51:20,591 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-11 11:51:20,639 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-11 11:51:20,639 - [33mPress CTRL+C to quit[0m
+2025-02-11 11:51:26,710 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://f694b62e84c50f7a775f4846af64677d.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-11 11:51:38,301 - 127.0.0.1 - - [11/Feb/2025 11:51:38] "GET / HTTP/1.1" 200 -
+2025-02-11 11:51:39,066 - 127.0.0.1 - - [11/Feb/2025 11:51:39] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-11 11:51:41,549 - 127.0.0.1 - - [11/Feb/2025 11:51:41] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 11:51:42,862 - 127.0.0.1 - - [11/Feb/2025 11:51:42] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 11:51:43,271 - 127.0.0.1 - - [11/Feb/2025 11:51:43] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 11:52:33,615 - [0m
+2025-02-11 11:52:33,616 - Connection to serveo.net closed.
+2025-02-11 12:01:18,998 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-11 12:01:19,000 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-11 12:01:19,055 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-11 12:01:19,056 - [33mPress CTRL+C to quit[0m
+2025-02-11 12:01:25,008 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://a6084ef3ec6aace32426d982b5d02777.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-11 12:05:28,229 - 127.0.0.1 - - [11/Feb/2025 12:05:28] "GET / HTTP/1.1" 200 -
+2025-02-11 12:05:29,092 - 127.0.0.1 - - [11/Feb/2025 12:05:29] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-11 12:05:31,754 - 127.0.0.1 - - [11/Feb/2025 12:05:31] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 12:05:33,830 - 127.0.0.1 - - [11/Feb/2025 12:05:33] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 12:05:34,542 - 127.0.0.1 - - [11/Feb/2025 12:05:34] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 12:06:55,540 - [0m
+2025-02-11 12:06:55,543 - Connection to serveo.net closed.
+2025-02-11 12:45:00,729 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-11 12:45:00,730 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-11 12:45:00,796 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-11 12:45:00,797 - [33mPress CTRL+C to quit[0m
+2025-02-11 14:13:50,875 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-11 14:13:50,880 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-11 14:13:50,974 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-11 14:13:50,975 - [33mPress CTRL+C to quit[0m
+2025-02-11 14:13:53,570 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://89c7329d1c7a27dcc92975b6562e1099.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-11 14:14:33,812 - 127.0.0.1 - - [11/Feb/2025 14:14:33] "GET / HTTP/1.1" 200 -
+2025-02-11 14:14:35,799 - 127.0.0.1 - - [11/Feb/2025 14:14:35] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-11 14:14:39,142 - 127.0.0.1 - - [11/Feb/2025 14:14:39] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 14:14:40,114 - 127.0.0.1 - - [11/Feb/2025 14:14:40] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 14:14:41,025 - 127.0.0.1 - - [11/Feb/2025 14:14:41] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 14:15:57,352 - [0m
+2025-02-11 14:15:57,355 - Connection to serveo.net closed.
+2025-02-11 14:19:39,618 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-11 14:19:39,622 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-11 14:19:39,687 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-11 14:19:39,688 - [33mPress CTRL+C to quit[0m
+2025-02-11 14:19:42,433 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://c9194937bd38e8276ef14b4c21385e56.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-11 14:19:59,509 - 127.0.0.1 - - [11/Feb/2025 14:19:59] "GET / HTTP/1.1" 200 -
+2025-02-11 14:20:01,584 - 127.0.0.1 - - [11/Feb/2025 14:20:01] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-11 14:20:02,998 - 127.0.0.1 - - [11/Feb/2025 14:20:02] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 14:20:05,028 - 127.0.0.1 - - [11/Feb/2025 14:20:05] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 14:20:05,035 - 127.0.0.1 - - [11/Feb/2025 14:20:05] "POST /location_update HTTP/1.1" 200 -
+2025-02-11 14:20:43,687 - [0m
+2025-02-11 14:20:43,688 - Connection to serveo.net closed.
+2025-02-12 16:57:42,395 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-12 16:57:42,397 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-12 16:57:42,488 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-12 16:57:42,489 - [33mPress CTRL+C to quit[0m
+2025-02-12 16:57:45,001 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://b1886acf8c838e31c7ba1eb16acbdc3b.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-12 16:58:11,836 - 127.0.0.1 - - [12/Feb/2025 16:58:11] "GET / HTTP/1.1" 200 -
+2025-02-12 16:58:13,548 - 127.0.0.1 - - [12/Feb/2025 16:58:13] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-12 16:58:15,303 - 127.0.0.1 - - [12/Feb/2025 16:58:15] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 16:58:17,015 - 127.0.0.1 - - [12/Feb/2025 16:58:17] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 16:58:38,055 - 127.0.0.1 - - [12/Feb/2025 16:58:38] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 16:59:12,464 - [0m
+2025-02-12 16:59:12,465 - Connection to serveo.net closed.
+2025-02-12 16:59:40,014 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-12 16:59:40,015 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-12 16:59:40,072 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-12 16:59:40,072 - [33mPress CTRL+C to quit[0m
+2025-02-12 16:59:42,964 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://e9dc85b14fcc31e050ade40468198c10.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-12 16:59:53,968 - 127.0.0.1 - - [12/Feb/2025 16:59:53] "GET / HTTP/1.1" 200 -
+2025-02-12 16:59:55,037 - 127.0.0.1 - - [12/Feb/2025 16:59:55] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-12 16:59:56,000 - 127.0.0.1 - - [12/Feb/2025 16:59:55] "GET /get_target HTTP/1.1" 200 -
+2025-02-12 16:59:56,197 - 127.0.0.1 - - [12/Feb/2025 16:59:56] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 16:59:56,327 - 127.0.0.1 - - [12/Feb/2025 16:59:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-12 16:59:57,864 - 127.0.0.1 - - [12/Feb/2025 16:59:57] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 16:59:58,743 - 127.0.0.1 - - [12/Feb/2025 16:59:58] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 17:00:07,018 - 127.0.0.1 - - [12/Feb/2025 17:00:07] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:08,443 - 127.0.0.1 - - [12/Feb/2025 17:00:08] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:10,408 - 127.0.0.1 - - [12/Feb/2025 17:00:10] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:12,776 - 127.0.0.1 - - [12/Feb/2025 17:00:12] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:13,279 - 127.0.0.1 - - [12/Feb/2025 17:00:13] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:13,914 - 127.0.0.1 - - [12/Feb/2025 17:00:13] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:16,151 - 127.0.0.1 - - [12/Feb/2025 17:00:16] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:16,913 - 127.0.0.1 - - [12/Feb/2025 17:00:16] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:18,508 - 127.0.0.1 - - [12/Feb/2025 17:00:18] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:19,794 - 127.0.0.1 - - [12/Feb/2025 17:00:19] "POST /image HTTP/1.1" 200 -
+2025-02-12 17:00:21,573 - [0m
+2025-02-12 17:00:21,574 - Connection to serveo.net closed.
+2025-02-12 17:00:39,431 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2025-02-12 17:00:39,433 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2025-02-12 17:00:39,488 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.255.129:8000
+2025-02-12 17:00:39,488 - [33mPress CTRL+C to quit[0m
+2025-02-12 17:00:41,583 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://4ae435ad3a31cfcd249ebba274081de5.serveo.net[0m
+ [31mDon't close this window![0m
+2025-02-12 17:00:50,521 - 127.0.0.1 - - [12/Feb/2025 17:00:50] "GET / HTTP/1.1" 200 -
+2025-02-12 17:00:52,128 - 127.0.0.1 - - [12/Feb/2025 17:00:52] "GET /dwebhook.js HTTP/1.1" 200 -
+2025-02-12 17:00:52,987 - 127.0.0.1 - - [12/Feb/2025 17:00:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-12 17:00:53,348 - 127.0.0.1 - - [12/Feb/2025 17:00:53] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 17:00:54,776 - 127.0.0.1 - - [12/Feb/2025 17:00:54] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 17:00:56,468 - 127.0.0.1 - - [12/Feb/2025 17:00:56] "POST /location_update HTTP/1.1" 200 -
+2025-02-12 17:01:23,668 - [0m
+2025-02-12 17:01:23,669 - Connection to serveo.net closed.
