@@ -84,50 +84,6 @@ Requirements:
 <img src="https://img.shields.io/badge/Discord webhook-05122A?style=for-the-badge&logo=discord">
 </h4>
 
-### ⭔ Installation
----
-
-```
-git clone https://github.com/spyboy-productions/r4ven.git
-```
-```
-cd r4ven
-```
-```
-pip3 install -r requirements.txt
-```
-```
-python3 r4ven.py
-```
-
-`NOTE:` If you're not going to use `localhost`
-- choose module(all, cam, ip, gps), open file `index.html` replace `"http://127.0.0.1:8000/image"` with the `URL` you wish to use.
-
-OR
-
-Please use the `-t` flag to choose a different URL.
-
-Use the following command to make r4ven executable:
-
-```
-chmod +x r4ven.py
-```
-- To change the Image URL use 
-```
-python3 r4ven.py [-t target]
-```
-- To change Port
-```
-python3 r4ven.py [-p port]
-```
-- For Both Image-URL and port
-```
-python3 r4ven.py [-t target] [-p port]
-```
-
-**Example:** `python3 r4ven.py -t https://example.com/r4ven/images -p 8000`
-
----
 
 ```Enter your discord webhook URL (set up a channel in your discord server with webhook integration)```
 
@@ -145,43 +101,16 @@ https://discord.com/
 
 ---
 
-#### ⭓ To change website template
-
-- choose module(all, cam, ip, gps), open file `index.html` replace the `src` in the iframe. (Note: not every website supports iframe)
-
----
-
 #### ⭓ port forwarding:
 
 - It automatically port forwards with Serveo, but you can choose to use your preferred method for port forwarding.
 - The default port is 8000 or any port you specified.
 
-⭓ Other cmd to port-forward...
-
-TryCloudflare: `cloudflared tunnel --url http://localhost:8000`
-
-Tunnelmole: `tmole 8000`
-
-Ngrok: `ngrok http 8000`
-
-Ssh: `ssh -R 80:localhost:8000 ssh.localhost.run`
-
-Serveo: `ssh -R 80:localhost:8000 serveo.net`
-
-```diff
-- Make sure you port forward else it will not work on the smartphone's browser
-```
 
 
-#### 😴🥱😪💤 ToDo:
 
-- Mask port forwarded URL using our tool Facad1ng
-- PHP code to host a website without Python
-- Iframe can be warned ..make a phishing template or bypass the iframe warning.
 
----
 
----
 
 
 
