@@ -1,7 +1,7 @@
 
 
 <h4 align="center"> 
-  <a href="https://odysee.com/@spyboy:b/R4ven">
+  <a href="https://drive.google.com/file/d/1IWBeubvl8sU5r3DMIWM3gicKCGdoZ7O2/view?usp=drive_link">
     ▶️ Watch Video - How To Use!
   </a>
 </h4>
